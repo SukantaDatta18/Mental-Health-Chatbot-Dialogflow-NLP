@@ -86,13 +86,34 @@ Mental-Health-Chatbot-Dialogflow-NLP/
 └── README.md           # You're here! 😃
 ```
 
-👨‍💻 Meet the Developers
+## 👨‍💻 **Meet the Developers**
 
-<div align="center">
-Sukanta Datta	Rahul Biswas
-Sukanta Datta	Rahul Biswas
-GitHub	GitHub
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SukantaDatta18">
+        <img src="https://avatars.githubusercontent.com/u/YOUR_SUKANTA_PROFILE_ID?s=100" width="100px;" alt="Sukanta"/>
+      </a>
+      <br />
+      <strong>Sukanta Datta</strong>
+      <br />
+      <a href="https://github.com/SukantaDatta18">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rahulbiswas9502">
+        <img src="https://avatars.githubusercontent.com/u/YOUR_RAHUL_PROFILE_ID?s=100" width="100px;" alt="Rahul"/>
+      </a>
+      <br />
+      <strong>Rahul Biswas</strong>
+      <br />
+      <a href="https://github.com/Rahulbiswas9502">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 📜 License
 MIT © 2024 - See LICENSE for details.
