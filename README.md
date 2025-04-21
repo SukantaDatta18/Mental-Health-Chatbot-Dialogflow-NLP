@@ -86,10 +86,13 @@ Mental-Health-Chatbot-Dialogflow-NLP/
 └── README.md           # You're here! 😃
 ```
 
-👨‍💻 Meet the Team
-Sukanta Datta	Rahul Biswas
+👨‍💻 Meet the Developers
 
+<div align="center">
+Sukanta Datta	Rahul Biswas
+Sukanta Datta	Rahul Biswas
 GitHub	GitHub
+</div>
 
 📜 License
 MIT © 2024 - See LICENSE for details.
