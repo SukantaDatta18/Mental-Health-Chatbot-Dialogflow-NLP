@@ -92,7 +92,7 @@ Mental-Health-Chatbot-Dialogflow-NLP/
   <tr>
     <td align="center">
       <a href="https://github.com/SukantaDatta18">
-        <img src="https://avatars.githubusercontent.com/u/YOUR_SUKANTA_PROFILE_ID?s=100" width="100px;" alt="Sukanta"/>
+        <img src="https://avatars.githubusercontent.com/u/122114890?s=100" width="100px;" alt="Sukanta"/>
       </a>
       <br />
       <strong>Sukanta Datta</strong>
@@ -103,7 +103,7 @@ Mental-Health-Chatbot-Dialogflow-NLP/
     </td>
     <td align="center">
       <a href="https://github.com/Rahulbiswas9502">
-        <img src="https://avatars.githubusercontent.com/u/YOUR_RAHUL_PROFILE_ID?s=100" width="100px;" alt="Rahul"/>
+        <img src="https://avatars.githubusercontent.com/u/104161953?s=100" width="100px;" alt="Rahul"/>
       </a>
       <br />
       <strong>Rahul Biswas</strong>
