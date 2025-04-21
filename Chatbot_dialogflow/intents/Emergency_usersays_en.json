@@ -1,0 +1,80 @@
+[
+  {
+    "id": "48312ddc-aeb4-402a-9613-0ea9c79dafd1",
+    "data": [
+      {
+        "text": "Emergency please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5c18f6c-8ff8-49bd-b99d-5955d78e57f3",
+    "data": [
+      {
+        "text": "Help me now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40bee78d-51af-4423-8afa-9fcdf31f26b0",
+    "data": [
+      {
+        "text": "I need emergency contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bf4d061-2892-4f0a-bae2-1ce9231cab6d",
+    "data": [
+      {
+        "text": "Call someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1acb14c9-4206-4d27-88ed-fda3afd9b1cb",
+    "data": [
+      {
+        "text": "It\u0027s an emergency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c85917b-5a1d-415d-87ee-6465cae553ab",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "c97b5ad3-ca1e-40fd-8533-e7f1f9317b82",
+  "name": "Emergency",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you\u0027re experiencing an emergency, please contact the following immediately:\n\n📞 Phone: [Your Emergency Phone Number](tel:+880123456789)\n📧 Email: [Your Emergency Email](mailto:help@example.com)\n\nYou can also reach out via [Emergency Support Website](https://example.com/help)\n\nPlease stay safe. ❤️"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

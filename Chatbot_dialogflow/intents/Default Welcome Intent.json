@@ -1,0 +1,58 @@
+{
+  "id": "bccd4779-56f4-40d1-ab2f-b8cdd3b21803",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "getName",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there, I\u0027m  a mental Health bot. You can think of me as your companion and talk to me freely. Tell me your name?",
+            "Hi there,  I\u0027m  a mental Health bot. You can share your feelings with me. You know my name, how about your name?",
+            "Hi there,  I\u0027m  a mental Health bot. You can share your feelings with me. This is strictly between us ;)\nWhat do you want me to call you?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "zh-cn",
+          "speech": [
+            "您好，我的名字是Achelois。你可以和我分享你的感受。这完全在我们之间;）\n你想让我给你打电话什么？",
+            "您好，我的名字是Achelois。你可以把我当作你的伴侣，随意与我交谈。告诉我你的名字？"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

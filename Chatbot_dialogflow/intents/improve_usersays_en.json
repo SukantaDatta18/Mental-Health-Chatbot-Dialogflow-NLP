@@ -1,0 +1,100 @@
+[
+  {
+    "id": "9cd027a2-5bf7-4148-b56d-ce0895c4d7f7",
+    "data": [
+      {
+        "text": "Mental health self-care tips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f6491e6-cfc2-41a1-b63f-6507f7f1217a",
+    "data": [
+      {
+        "text": "What should I do to feel ",
+        "userDefined": false
+      },
+      {
+        "text": "better",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      },
+      {
+        "text": " mentally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dc8394f-c27b-422a-a497-f5a606535424",
+    "data": [
+      {
+        "text": "How do I stay mentally ",
+        "userDefined": false
+      },
+      {
+        "text": "healthy",
+        "meta": "@feelings",
+        "alias": "feelings",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9048f6c-a5d4-4e53-addb-36f08640f53c",
+    "data": [
+      {
+        "text": "Tips for mental health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09a84cd5-ae31-4c3d-96cf-b936a3056838",
+    "data": [
+      {
+        "text": "How can I improve my mental health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3901aa36-d7aa-4b69-baec-7a4f6527d806",
+    "data": [
+      {
+        "text": "how to improve my mental health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

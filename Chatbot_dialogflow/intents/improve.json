@@ -1,0 +1,52 @@
+{
+  "id": "a8dcede7-5d0f-4898-9dd9-02d85bedfa15",
+  "name": "improve",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "871e0c58-03f4-4498-b722-9603c3635c65",
+          "name": "feelings",
+          "required": false,
+          "dataType": "@feelings",
+          "value": "$feelings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are a few ways you can improve your mental health:\n🧠 Practice mindfulness or meditation  \n📝 Keep a daily journal  \n🏃‍♂️ Get regular exercise  \n💬 Talk to someone you trust  \n😴 Ensure proper sleep  \n🎨 Do something creative or fun  \nWant to try a short breathing exercise?",
+            "Taking care of your mental health is important. Some helpful practices include:\n- Mindfulness and gratitude  \n- Staying active  \n- Talking about your feelings  \n- Doing something you enjoy  \nWould you like me to guide you through a calming activity?",
+            "Mental health can be nurtured with small daily habits:\n🌿 Go outside and get sunlight  \n📵 Take breaks from social media  \n🤗 Connect with loved ones  \n🧘 Try meditation or yoga  \nWould you like a list of calming YouTube videos?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

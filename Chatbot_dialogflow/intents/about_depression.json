@@ -1,0 +1,65 @@
+{
+  "id": "1f4e5e25-4883-4051-afac-556206c534e1",
+  "name": "about_depression",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c23f49a4-cbd5-454a-8bb5-21409335a2e5",
+          "name": "negativefeelings",
+          "required": false,
+          "dataType": "@negativeFeelings",
+          "value": "$negativefeelings",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "224db291-957d-4eb6-9772-9a9053dfd62d",
+          "name": "negativeboolean",
+          "required": false,
+          "dataType": "@negativeBoolean",
+          "value": "$negativeboolean",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Depression is a common but serious mental health condition that affects how you feel, think, and act. Symptoms can include:\n😞 Persistent sadness  \n🛌 Loss of interest in activities  \n😴 Changes in sleep or appetite  \n😔 Feeling hopeless or worthless  \n🧠 Trouble concentrating\n\nYou\u0027re not alone, and it\u0027s okay to seek help. Would you like some tips or resources that might help?",
+            "It sounds like you\u0027re asking about depression. It\u0027s more than just feeling sad — it can affect your energy, thoughts, and daily life. If you\u0027re experiencing things like loss of interest, sadness, or fatigue for more than two weeks, it might be depression.\n\nI\u0027m here to talk, or I can suggest some calming activities. Would that help?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
