@@ -64,6 +64,7 @@ git clone https://github.com/SukantaDatta18/Mental-Health-Chatbot-Dialogflow-NLP
 
 bash
 open `index.html`  # (or drag into browser)
+
 3️⃣ Deploy on Vercel:
 🔗 Live Demo
 
@@ -87,12 +88,15 @@ Mental-Health-Chatbot-Dialogflow-NLP/
 
 👨‍💻 Meet the Team
 Sukanta Datta	Rahul Biswas
+
 GitHub	GitHub
+
 📜 License
 MIT © 2024 - See LICENSE for details.
 
 <div align="center">
 💖 Crafted with care under Prof. Mohammad Mynoddin
+  
 ⭐ Star this repo if you love it! ⭐
 
 </div> 
